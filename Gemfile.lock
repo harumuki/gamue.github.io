@@ -47,7 +47,6 @@ GEM
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-postcss (0.4.0)
-    jekyll-purgecss (0.3.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-sitemap (1.4.0)
@@ -103,7 +102,6 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-paginate-v2
   jekyll-postcss
-  jekyll-purgecss
   jekyll-sitemap
   jemoji
   kramdown
