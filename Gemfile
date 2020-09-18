@@ -16,4 +16,5 @@ group :jekyll_plugins do
   gem 'kramdown-parser-gfm'
   gem 'jekyll-purgecss'
   gem "jekyll-sitemap"
+  gem "jekyll-postcss"
 end
